@@ -1,0 +1,18 @@
+{
+    "translation": {
+        "general": {
+            "loading": "loading...",
+            "you": "You"
+        },
+        "home": {
+            "title": "What's your name?",
+            "placeholderInput": "Type your name...",
+            "buttonLabel": "Save"
+        },
+        "chat": {
+            "title": "Chat",
+            "placeholderInput": "Type your message...",
+            "buttonLabel": "Send"
+        }
+    }
+}
